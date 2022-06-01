@@ -7,7 +7,7 @@ Markdown adalah sebuah dokumen yang memiliki _format_.
 ## Daftar hadir
 1. Surya Aditya GD
 
-Ainan
+Surya Aditya
 - Link GitHub: https://www.github.com/saditya2610
 - [GitHub](https://www.github.com/saditya2610)
 
