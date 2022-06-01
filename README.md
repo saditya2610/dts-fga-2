@@ -5,11 +5,11 @@ Kelas E React JS - DTS FGA
 Markdown adalah sebuah dokumen yang memiliki _format_.
 
 ## Daftar hadir
-1. Tata Redha Al Fath
+1. Surya Aditya GD
 
 Ainan
-- Link GitHub: https://www.github.com/ainandoo
-- [GitHub](https://www.github.com/ainandoo)
+- Link GitHub: https://www.github.com/saditya2610
+- [GitHub](https://www.github.com/saditya2610)
 
 
 #### Terakhir di update: 01 Juni 2022
